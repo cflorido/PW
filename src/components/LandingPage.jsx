@@ -5,6 +5,7 @@ import LocationSection from "./LocationSection";
 import CertificationsSection from "./CertificationsSection";
 import ProcessSection from "./ProcessSection";
 import PortfolioSection from "./PortfolioSection";
+import ReviewsSection from "./ReviewsSection";
 import FAQSection from "./FAQSection";
 import Footer from "./Footer";
 
@@ -337,6 +338,10 @@ Nota: Las imágenes adjuntas deben enviarse manualmente.
       
       <div id="proyectos">
         <PortfolioSection />
+      </div>
+
+      <div id="resenas">
+        <ReviewsSection />
       </div>
       
       <div id="certificaciones">
