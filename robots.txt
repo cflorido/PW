@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://pwindustrial.com/sitemap.xml
+Sitemap: https://pipingwelding.com/sitemap.xml
